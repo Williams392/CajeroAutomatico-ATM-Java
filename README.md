@@ -2,7 +2,7 @@
 
 Celular: +51 994468279
 
-<a href='https://postimg.cc/yg85S7Wh' target='_blank'><img src='https://i.postimg.cc/0QYqFQs4/cajero-inicio.png' border='0' alt='cajero-inicio'/></a>
+<a href='https://postimg.cc/yg85S7Wh' target='_blank'><img src='https://i.postimg.cc/yg85S7Wh/cajero-inicio.png' border='0' alt='cajero-inicio'/></a>
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/J7c4w5KQ/353884629-6228215510633456-2897994694542763871-n.png' border='0' alt='353884629-6228215510633456-2897994694542763871-n'/></a>
 
