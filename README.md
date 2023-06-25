@@ -1,4 +1,4 @@
-# CajeroAutomatico_ATM_Java
+# CajeroAutomatico ATM Java y MySQL
 
 <a href='https://postimg.cc/4HssRF8B' target='_blank'><img src='https://i.postimg.cc/1XNt6kDh/354199145-1014579792889912-6925126814146506055-n.png' border='0' alt='354199145-1014579792889912-6925126814146506055-n'/></a>
 
