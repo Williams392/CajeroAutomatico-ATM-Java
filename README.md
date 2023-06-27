@@ -1,6 +1,6 @@
 # CajeroAutomatico ATM  Java y MySQL
 
-Celular: +51 994468279
+
 
 <a href='https://postimg.cc/yg85S7Wh' target='_blank'><img src='https://i.postimg.cc/0QYqFQs4/cajero-inicio.png' border='0' alt='cajero-inicio'/></a>
 
