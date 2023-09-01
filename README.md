@@ -1,7 +1,7 @@
 # CajeroAutomatico ATM  Java y MySQL
 
 Para proyecto completo: 
-tel: 994 468 279
+tel: +51 994 468 279
 
 
 <a href='https://postimg.cc/yg85S7Wh' target='_blank'><img src='https://i.postimg.cc/0QYqFQs4/cajero-inicio.png' border='0' alt='cajero-inicio'/></a>
